@@ -39,3 +39,8 @@ The `web/` folder in a Flutter project contains all the code and resources requi
 - `README.md`: a markdown file that is used to describe your application in the GitHub repository
 
 Link for package explained as demo during the session: [external_app_launcher](https://github.com/GayathrideviGA/external_app_launcher)
+
+### Get in touch:
+- Connect with me on Twitter [@gayuga99](https://twitter.com/gayuga99)
+- Connect with me on LinkedIn  [Gayathri Devi Srinivasan](https://www.linkedin.com/in/gayathri-devi-srinivasan-961bbb147/)
+
